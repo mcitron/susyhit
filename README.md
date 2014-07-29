@@ -3,4 +3,4 @@ susyhit
 
 Use:
 
-./run <input-SLHA> <output-SLHA>
+./run input-SLHA output-SLHA
